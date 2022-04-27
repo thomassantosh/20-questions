@@ -1,0 +1,13 @@
+Animal,Does it like milk?,Does it have four legs?,Does it like bones?,Can it swim?,Is it a carnivore?,Does it live in Africa?,Does it fly?,Is it a bird of prey?,Does it hunt in packs?,Can it climb trees?,Weigh less than 5 pounds?,Does it howl?,Does it have spots?
+a cat,yes,yes,no,yes,yes,yes,,,,,,,
+a dog,no,yes,yes,yes,yes,no,,,,,,,
+a fish,no,no,no,yes,yes,yes,,,,,,,
+a bear,yes,yes,yes,yes,yes,no,no,no,,,,,
+a rattlesnake,yes,no,yes,no,yes,yes,,,,,,,
+a vulture,,no,yes,,,,yes,,,,,,
+a falcon,,,,,,,yes,yes,,,,,
+a hyena,,,,,,yes,no,,yes,,,,
+a leopard,,yes,,,,yes,,,,yes,,,
+a shrike,,,,,,,yes,yes,,,yes,,
+a wolf,,,,,,,,,yes,,,yes,
+a cheetah,,,,,yes,yes,,,,no,,,yes
